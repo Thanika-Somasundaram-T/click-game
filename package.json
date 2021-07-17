@@ -2,7 +2,7 @@
   "name": "react-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http: //Thanika-Somasundaram-T.github.io/click-game",
+  "homepage": "https: //Thanika-Somasundaram-T.github.io/click-game",
   "dependencies": {
     "-": "^0.0.1",
     "@laufire/resist": "^0.0.4",

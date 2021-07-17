@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/css/main.10db4f84.chunk.css",
+    "main.js": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/main.2316de7e.chunk.js",
+    "main.js.map": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/main.2316de7e.chunk.js.map",
+    "runtime-main.js": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/runtime-main.c004e4fd.js",
+    "runtime-main.js.map": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/runtime-main.c004e4fd.js.map",
+    "static/js/2.31dd99e2.chunk.js": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/2.31dd99e2.chunk.js",
+    "static/js/2.31dd99e2.chunk.js.map": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/2.31dd99e2.chunk.js.map",
+    "static/js/3.b59ad062.chunk.js": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/3.b59ad062.chunk.js",
+    "static/js/3.b59ad062.chunk.js.map": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/3.b59ad062.chunk.js.map",
+    "index.html": "/%20//Thanika-Somasundaram-T.github.io/click-game/index.html",
+    "static/css/main.10db4f84.chunk.css.map": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/css/main.10db4f84.chunk.css.map",
+    "static/js/2.31dd99e2.chunk.js.LICENSE.txt": "/%20//Thanika-Somasundaram-T.github.io/click-game/static/js/2.31dd99e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c004e4fd.js",
+    "static/js/2.31dd99e2.chunk.js",
+    "static/css/main.10db4f84.chunk.css",
+    "static/js/main.2316de7e.chunk.js"
+  ]
+}
